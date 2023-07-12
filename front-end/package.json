@@ -1,5 +1,5 @@
 {
-  "name": "kanboom6-frontend",
+  "name": "swise_front-end",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -35,4 +35,5 @@
     "webpack": "^5.85.1",
     "webpack-cli": "^5.1.3"
   }
+  
 }
